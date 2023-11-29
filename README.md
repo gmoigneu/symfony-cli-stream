@@ -6,6 +6,8 @@
 
 Instead of streaming the chunks, the response is only available when all is completed.
 
+Code is in `src/Controller/ExampleController.php`
+
 See the recording:
 
 ![recording](./recording.gif)
